@@ -1,2 +1,6 @@
-실행하면 눈이 계속 내림
-너무 많이 내리면 렉이걸림
+# Snow-fall
+  Execute WindowsProject1.cpp  
+  start snow-falling 
+  
+  ## test video
+  https://blog.naver.com/arin12349
