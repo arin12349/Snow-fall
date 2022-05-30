@@ -2,5 +2,5 @@
   Execute WindowsProject1.cpp  
   start snow-falling 
   
-  ## test video
+  ## Test video
   https://blog.naver.com/arin12349
